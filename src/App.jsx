@@ -24,7 +24,7 @@ const App = () => {
         <Testimonials />
         <Contact />
         <Footer />
-        {/* <div style={{ height: '2000px' }}></div> */}
+       
       </div>
     </>
   );
